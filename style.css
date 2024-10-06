@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-image: url("att.fGGra1G0b8rw0k7jfpHBKsueJ1hoapbxbvLFSWji0YM.jpg");
+    background-size: cover;
+    background-position: center;
+    border-radius: 150px;
+    color: #fff;
+    cursor: crosshair;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: rgba(138, 98, 98, 0.8);
+    padding: 20px 40px;
+    border-radius: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
